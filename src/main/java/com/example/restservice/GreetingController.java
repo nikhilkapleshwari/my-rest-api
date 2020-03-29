@@ -19,6 +19,6 @@ public class GreetingController {
 	
 	@GetMapping("/hello")
 	public String sayHello() {
-		return "Hello World from my-rest-api!!!";
+		return "Hello World...";
 	}
 }
