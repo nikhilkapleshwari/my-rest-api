@@ -76,7 +76,7 @@
 		<repository>
 			<id>central</id>
 			<name>8e69a0a069cb-releases</name>
-			<url>http://localhost:8082/artifactory/libs-release/</url>
+			<url>http://localhost:8082/artifactory/libs-snapshot/</url>
 		</repository>
 	</distributionManagement>
 
